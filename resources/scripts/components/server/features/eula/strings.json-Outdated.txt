@@ -1,0 +1,7 @@
+ANTI PIRACY FILE, DO NOT TOUCH THIS FILE!
+
+Buyer Username: ([(pterodactylmarket_user)])
+Buyer ID: ([(pterodactylmarket_userid)])
+Resource Version: ([(pterodactylmarket_version)])
+Resource Name: ([(pterodactylmarket_resource)])
+Transaction ID: ([(pterodactylmarket_transactionid)])
